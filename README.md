@@ -2,6 +2,10 @@
 
 This is the description!
 
-## Subheader
+## Subheader 
 
-Text
+Text 2
+
+## local dev
+
+1. Open index.html in your browser.
